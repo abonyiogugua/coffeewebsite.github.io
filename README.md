@@ -28,4 +28,7 @@ this project is built and shared by <br>
 <li>360kMinds</li>
 <br><br>
 <h1>Feedback</h1><br>
+
+if you have any question or feedback please reach out or email us at <a href='abonyiogugua.1@gmail.com'>abonyiogugua.1@gmal.com</a>
+
 if you have any question or feedback please reach out or email us at <a href='abonyiogugua.1@gmail.com'>abonyiogugua.1@gmal.com</a>
